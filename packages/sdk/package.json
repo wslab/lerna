@@ -20,6 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "doctor": "^1.0.1"
+    "doctor": "^1.0.1",
+    "patient": "^1.0.1"
   }
 }
