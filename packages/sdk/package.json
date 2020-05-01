@@ -1,6 +1,6 @@
 {
   "name": "sdk",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "desc-sdk",
   "keywords": [
     "sdk"
@@ -20,7 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "doctor": "^1.0.1",
+    "doctor": "^1.1.0",
     "patient": "^1.0.1"
   }
 }
