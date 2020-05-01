@@ -1,0 +1,23 @@
+{
+  "name": "scheduler",
+  "version": "1.0.0",
+  "description": "scheduler desc",
+  "keywords": [
+    "sched"
+  ],
+  "author": "alex@alex.com <alex@alex.com>",
+  "homepage": "http://sched",
+  "license": "ISC",
+  "main": "lib/scheduler.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "ls": "ls",
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}

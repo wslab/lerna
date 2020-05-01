@@ -1,0 +1,24 @@
+{
+  "name": "doctor",
+  "version": "1.0.0",
+  "description": "Doctor package",
+  "keywords": [
+    "doc",
+    "doctor"
+  ],
+  "author": "alex@alex.com <alex@alex.com>",
+  "homepage": "http://home",
+  "license": "ISC",
+  "main": "lib/doctor.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "ls": "ls",
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}

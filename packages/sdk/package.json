@@ -1,0 +1,22 @@
+{
+  "name": "sdk",
+  "version": "1.0.0",
+  "description": "desc-sdk",
+  "keywords": [
+    "sdk"
+  ],
+  "author": "alex@alex.com <alex@alex.com>",
+  "homepage": "http://sdk",
+  "license": "ISC",
+  "main": "lib/sdk.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
